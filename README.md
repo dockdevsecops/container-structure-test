@@ -5,6 +5,7 @@
 This repository offers `Dockerfile` and instructions for building container based on Alpine Linux that contains [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) binary.
 
 For your convenience, you can use automatic build from Docker Hub [zemanlx/container-structure-test](https://hub.docker.com/r/zemanlx/container-structure-test) tags:
+- `v1.11.0-alpine`
 - `v1.10.0-alpine`
 - `v1.9.1-alpine`
 - `v1.8.0-alpine`
