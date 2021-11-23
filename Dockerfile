@@ -5,7 +5,7 @@ RUN apk add --no-cache \
     make~=4.3
 
 # container-structure-test default version
-ARG CST_REF=v1.10.0
+ARG CST_REF=v1.11.0
 ENV SOURCE_PATH=/go/src/github.com/GoogleContainerTools/container-structure-test
 
 RUN git clone \
